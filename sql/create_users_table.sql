@@ -1,0 +1,8 @@
+CREATE TABLE Users (
+    UserId INT IDENTITY PRIMARY KEY,
+    FullName NVARCHAR(100),
+    Email NVARCHAR(100) UNIQUE,
+    Role NVARCHAR(50),
+    IsActive BIT DEFAULT 1,
+    CreatedDate DATETIME DEFAULT GETDATE()
+);
