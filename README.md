@@ -1,0 +1,2 @@
+# MFI-AuditFlow-Internal-Audit-Compliance-and-Risk-Management-Automation-Platform
+Copilot said:  MFI AuditFlow is a centralized platform that automates internal audits, compliance monitoring, risk assessments, and regulatory reporting for Microfinance Institutions (MFIs). It streamlines audit planning, evidence management, issue tracking and corrective actions while ensuring compliance with governance and regulatory requirements
